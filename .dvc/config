@@ -2,4 +2,4 @@
     analytics = false
     remote = remote_storage
 ['remote "remote_storage"']
-    url = /mnt/c/Users/Michael\ Davis/Documents/data
+    url = /mnt/c/Users/Michael Davis/Documents/data
